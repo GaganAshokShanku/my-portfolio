@@ -4,7 +4,7 @@ function toggleDarkMode() {
 }
 
 // Typing Effect
-const text = ["Developer", "Designer", "Student"];
+const text = ["Developer", "Designer", "Student"]; 
 let i = 0, j = 0;
 
 function type() {
