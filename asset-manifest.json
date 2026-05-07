@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.57029248.css",
+    "main.js": "/my-portfolio/static/js/main.622bd3c3.js",
+    "static/media/WhatsApp Image 2026-05-07 at 12.11.28 PM.jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 12.11.28 PM.81091f690b5756914d60.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 12.10.33 PM (1).jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 12.10.33 PM (1).5627ab976abf05ab074c.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 12.10.33 PM.jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 12.10.33 PM.687adb4e8ef32fe4b663.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 11.52.16 AM.jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 11.52.16 AM.231dc8d5f86c9158bea8.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 11.52.17 AM (1).jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 11.52.17 AM (1).5d82a8773e18615efa39.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 11.52.17 AM.jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 11.52.17 AM.881102301845566066ba.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 11.52.17 AM (2).jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 11.52.17 AM (2).64a2d8d25867b3448db3.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 11.52.18 AM.jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 11.52.18 AM.5a8737866d2bc89aef44.jpeg",
+    "static/media/WhatsApp Image 2026-05-07 at 11.46.03 AM.jpeg": "/my-portfolio/static/media/WhatsApp Image 2026-05-07 at 11.46.03 AM.03cab59a830c8360837e.jpeg",
+    "index.html": "/my-portfolio/index.html",
+    "main.57029248.css.map": "/my-portfolio/static/css/main.57029248.css.map",
+    "main.622bd3c3.js.map": "/my-portfolio/static/js/main.622bd3c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57029248.css",
+    "static/js/main.622bd3c3.js"
+  ]
+}
